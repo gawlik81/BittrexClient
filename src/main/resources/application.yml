@@ -1,0 +1,5 @@
+bittrex:
+  apikey: "7631ccdadb6a4cc8a037839e19570b0d"
+  secret: "931ef5fe020f4405b6518256aa11b7c4"
+  getbalance:
+    currency: "LSK"
